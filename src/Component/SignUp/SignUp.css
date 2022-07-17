@@ -1,0 +1,31 @@
+.login-signup-main-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.radio-container-btns {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.radio-field {
+  margin: 5px;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.submit-btn {
+  width: 100%;
+  background: var(--primary);
+  color: var(--primary-text-color);
+  border: none;
+  border-radius: 25px;
+  padding: 5px;
+}
+
+.signup-btn-container {
+  margin: 10px 0;
+}

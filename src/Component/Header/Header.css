@@ -1,0 +1,5 @@
+.login_signup_header {
+  background-color: var(--header-color);
+  width: 100%;
+  height: 50px;
+}

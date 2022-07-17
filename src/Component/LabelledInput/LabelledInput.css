@@ -1,0 +1,12 @@
+.label-asterisk {
+  color: red;
+}
+
+.content-left {
+  text-align: left;
+  display: block;
+}
+
+.error-message {
+  color: red;
+}

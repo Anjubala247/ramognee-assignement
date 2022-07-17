@@ -1,0 +1,47 @@
+.login-form-section {
+  margin-top: 15px;
+  align-items: right;
+}
+.login-form-email-section {
+  display: flex;
+  flex-direction: column;
+}
+.input-field {
+  width: 100%;
+  border-radius: 15px;
+  border: 1px solid lightgray;
+  padding: 5px;
+}
+.control-label {
+  float: left;
+  padding: 5px;
+  margin: 5px;
+}
+.login-form-submit-btn {
+  width: 100%;
+  border-radius: 15px;
+  border: none;
+  padding: 5px;
+  margin: 5px;
+  color: var(--primary-text-color);
+  background-color: var(--primary);
+}
+
+.forgot-password-text {
+  float: right;
+  padding: 5px;
+  margin: 5px;
+  color: blue;
+}
+.forgot-password-page-Link {
+  text-decoration: none;
+}
+
+.login-signup-main-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.error-message {
+  margin: 0 auto;
+}
